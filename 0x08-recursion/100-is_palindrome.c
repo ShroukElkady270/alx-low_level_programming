@@ -28,7 +28,7 @@ return (1);
 else
 return (pal_checker(s, i + 1, j - 1));
 else
-    return (0);
+return (0);
 }
 
 /**
